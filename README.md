@@ -13,7 +13,7 @@ Pertama-tama, pastikan Anda telah mengunduh dan menginstal GitHub Desktop di kom
 <br>
 Buka GitHub Desktop dan masuk ke akun GitHub Anda. Jika Anda belum memiliki akun, buat satu di <a href="github.com">https://github.com</a>.
 
-<b>3. Inisialisasi Repositori</b>
+<b>3. Inisialisasi Repository</b>
 <br>
 Buka GitHub Desktop, jika Anda masih di halaman utama, klik pada tombol ```Create a New Repository on your hard drive..```
 Jika Anda sebelumnya pernah publish repository, klik tab Current  repository di kiri atas lalu klik tombol ```Add``` dan klik ```Create a new repository```.  Pilih direktori tempat Anda ingin membuat repositori lokal Anda.
